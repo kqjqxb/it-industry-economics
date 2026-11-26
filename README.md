@@ -11,3 +11,4 @@
 | 3 | Аналіз функціональних точок (Visitera: ILF/EIF, EI/EO/EQ, VAF, AFP, економічні характеристики) | [pr3](pr3) |
 | 4 | Додаткові види точок (Visitera: Feature points, Object points, Use-case points, економічний вплив) | [pr4](pr4) |
 | 5 | Оцінювання вартості ПЗ за методом аналогії (база 21 проєкту GitHub, новий проєкт OpenSalon) | [pr5](pr5) |
+| 6 | Конструктивна модель вартості COCOMO (Visitera: базова, проміжна, COCOMO II, вплив розміру) | [pr6](pr6) |

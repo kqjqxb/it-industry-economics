@@ -1,0 +1,13 @@
+{
+  "visitera": {
+    "pm": 53.2,
+    "tm": 12.4,
+    "eaf": 0.55
+  },
+  "novelty": {
+    "pm": 127.4,
+    "tm": 17.6,
+    "eaf": 1.0
+  },
+  "ruse_low_in_tool": 0.98
+}
