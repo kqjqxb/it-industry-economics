@@ -1,0 +1,137 @@
+{
+  "total_sp": 156,
+  "stories": 35,
+  "epic_sp": {
+    "E1": 17,
+    "E2": 10,
+    "E3": 29,
+    "E4": 21,
+    "E5": 32,
+    "E6": 31,
+    "E7": 16
+  },
+  "buckets": {
+    "1": 1,
+    "2": 6,
+    "3": 13,
+    "5": 7,
+    "8": 7,
+    "13": 1,
+    "20": 0
+  },
+  "salary": 113180.0,
+  "scenarios": {
+    "Команда з однієї особи": {
+      "developers": 1,
+      "focus": 0.7,
+      "velocity": 7.0,
+      "sprints": 23,
+      "weeks": 46.0,
+      "months": 10.952380952380953,
+      "payroll": 113180.0,
+      "cost_per_sp": 7699.319727891157,
+      "cost": 1201093.8775510204,
+      "cost_per_sprint": 53895.2380952381,
+      "releases": [
+        {
+          "epic": "E1",
+          "cumulative_sp": 17,
+          "sprint": 3,
+          "cost": 130888.43537414966
+        },
+        {
+          "epic": "E2",
+          "cumulative_sp": 27,
+          "sprint": 4,
+          "cost": 207881.63265306124
+        },
+        {
+          "epic": "E3",
+          "cumulative_sp": 56,
+          "sprint": 8,
+          "cost": 431161.9047619048
+        },
+        {
+          "epic": "E4",
+          "cumulative_sp": 77,
+          "sprint": 11,
+          "cost": 592847.619047619
+        },
+        {
+          "epic": "E5",
+          "cumulative_sp": 109,
+          "sprint": 16,
+          "cost": 839225.8503401361
+        },
+        {
+          "epic": "E6",
+          "cumulative_sp": 140,
+          "sprint": 20,
+          "cost": 1077904.761904762
+        },
+        {
+          "epic": "E7",
+          "cumulative_sp": 156,
+          "sprint": 23,
+          "cost": 1201093.8775510204
+        }
+      ]
+    },
+    "Команда з трьох розробників": {
+      "developers": 3,
+      "focus": 0.6,
+      "velocity": 18.0,
+      "sprints": 9,
+      "weeks": 18.0,
+      "months": 4.285714285714286,
+      "payroll": 339540.0,
+      "cost_per_sp": 8982.539682539684,
+      "cost": 1401276.1904761908,
+      "cost_per_sprint": 161685.71428571432,
+      "releases": [
+        {
+          "epic": "E1",
+          "cumulative_sp": 17,
+          "sprint": 1,
+          "cost": 152703.17460317462
+        },
+        {
+          "epic": "E2",
+          "cumulative_sp": 27,
+          "sprint": 2,
+          "cost": 242528.57142857145
+        },
+        {
+          "epic": "E3",
+          "cumulative_sp": 56,
+          "sprint": 4,
+          "cost": 503022.2222222223
+        },
+        {
+          "epic": "E4",
+          "cumulative_sp": 77,
+          "sprint": 5,
+          "cost": 691655.5555555556
+        },
+        {
+          "epic": "E5",
+          "cumulative_sp": 109,
+          "sprint": 7,
+          "cost": 979096.8253968256
+        },
+        {
+          "epic": "E6",
+          "cumulative_sp": 140,
+          "sprint": 8,
+          "cost": 1257555.5555555557
+        },
+        {
+          "epic": "E7",
+          "cumulative_sp": 156,
+          "sprint": 9,
+          "cost": 1401276.1904761908
+        }
+      ]
+    }
+  }
+}
