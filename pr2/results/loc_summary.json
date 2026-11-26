@@ -1,0 +1,121 @@
+{
+  "categories": {
+    "generated": {
+      "title": "Згенерований код (типи БД)",
+      "languages": {
+        "TypeScript": {
+          "nFiles": 1,
+          "blank": 9,
+          "comment": 2,
+          "code": 1333
+        }
+      },
+      "total": {
+        "nFiles": 1,
+        "blank": 9,
+        "comment": 2,
+        "code": 1333
+      }
+    },
+    "tests": {
+      "title": "Автоматичні тести",
+      "languages": {
+        "TypeScript": {
+          "nFiles": 62,
+          "blank": 922,
+          "comment": 217,
+          "code": 6420
+        }
+      },
+      "total": {
+        "nFiles": 62,
+        "blank": 922,
+        "comment": 217,
+        "code": 6420
+      }
+    },
+    "tools": {
+      "title": "Службові скрипти та демо-дані",
+      "languages": {
+        "JavaScript": {
+          "nFiles": 5,
+          "blank": 130,
+          "comment": 93,
+          "code": 1332
+        },
+        "SQL": {
+          "nFiles": 1,
+          "blank": 10,
+          "comment": 10,
+          "code": 97
+        }
+      },
+      "total": {
+        "nFiles": 6,
+        "blank": 140,
+        "comment": 103,
+        "code": 1429
+      }
+    },
+    "config": {
+      "title": "Конфігурація збирання",
+      "languages": {
+        "TypeScript": {
+          "nFiles": 1,
+          "blank": 4,
+          "comment": 7,
+          "code": 33
+        },
+        "JavaScript": {
+          "nFiles": 2,
+          "blank": 3,
+          "comment": 2,
+          "code": 24
+        }
+      },
+      "total": {
+        "nFiles": 3,
+        "blank": 7,
+        "comment": 9,
+        "code": 57
+      }
+    },
+    "product": {
+      "title": "Продуктовий код",
+      "languages": {
+        "TypeScript": {
+          "nFiles": 280,
+          "blank": 2421,
+          "comment": 2067,
+          "code": 23128
+        },
+        "SQL": {
+          "nFiles": 31,
+          "blank": 611,
+          "comment": 608,
+          "code": 4585
+        },
+        "CSS": {
+          "nFiles": 3,
+          "blank": 133,
+          "comment": 99,
+          "code": 747
+        },
+        "HTML": {
+          "nFiles": 1,
+          "blank": 2,
+          "comment": 7,
+          "code": 31
+        }
+      },
+      "total": {
+        "nFiles": 315,
+        "blank": 3167,
+        "comment": 2781,
+        "code": 28491
+      }
+    }
+  },
+  "excluded_files": 47,
+  "ui_components": 794
+}
