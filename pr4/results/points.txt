@@ -1,0 +1,11 @@
+Feature points: UFeP = 414, AFeP = 455,40 (алгоритмів 22)
+Object points: OP = 109, OPnew = 98,10, E = 7,55 л.-міс (PROD = 13)
+Use-case points: UAW = 12, UUCW = 190, UUCP = 202, TCF = 1,045, EF = 0,860, UCP = 181,54, 3 631 год = 21,61 л.-міс
+Метод 2: {'EI': 37, 'EO': 15, 'EQ': 12, 'ILF': 9, 'EIF': 2} UFP = 375, AFP = 412,50
+
+LOC + COCOMO (ПР2)          28 548,0 SLOC  Effort  128,05  Cost   14 492 247 грн
+Function points (ПР3)          380,6 AFP   Effort  128,05  Cost   14 492 247 грн
+Feature points                 455,4 AFeP  Effort  156,55  Cost   17 717 844 грн
+Use-case points, метод 2       412,5 AFP   Effort  140,13  Cost   15 859 354 грн
+Use-case points, метод 1       181,5 UCP   Effort   21,61  Cost    2 446 000 грн
+Object points                   98,1 NOP   Effort    7,55  Cost      854 074 грн
