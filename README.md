@@ -10,3 +10,4 @@
 | 2 | Метрики розміру. Метрика Lines of Code (Visitera: LOC, COCOMO, рівні мов C# і Java) | [pr2](pr2) |
 | 3 | Аналіз функціональних точок (Visitera: ILF/EIF, EI/EO/EQ, VAF, AFP, економічні характеристики) | [pr3](pr3) |
 | 4 | Додаткові види точок (Visitera: Feature points, Object points, Use-case points, економічний вплив) | [pr4](pr4) |
+| 5 | Оцінювання вартості ПЗ за методом аналогії (база 21 проєкту GitHub, новий проєкт OpenSalon) | [pr5](pr5) |

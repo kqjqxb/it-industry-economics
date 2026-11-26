@@ -1,0 +1,32 @@
+Новий проєкт: opensalon, фактичні зусилля 8 р.-міс
+
++ crm-laravel              PHP          d_E 0,0079  d_M 0,0094  effort 6
+* chronex                  TypeScript   d_E 0,0197  d_M 0,0230  effort 3
++ hotel-management         C#           d_E 0,0243  d_M 0,0346  effort 6
+* gobarber                 TypeScript   d_E 0,0260  d_M 0,0347  effort 3
+* ignitecall               TypeScript   d_E 0,0463  d_M 0,0788  effort 4
+  pronto                   TypeScript   d_E 0,0526  d_M 0,0930  effort 11
+  tabletop-scheduler       TypeScript   d_E 0,1040  d_M 0,1560  effort 16
+  dayotter                 TypeScript   d_E 0,1160  d_M 0,2043  effort 17
+  healthcare-scheduling    JavaScript   d_E 0,1664  d_M 0,2077  effort 14
+  edoc                     PHP          d_E 0,1700  d_M 0,2119  effort 12
+  doctor-appointment       JSX          d_E 0,2299  d_M 0,2798  effort 20
+  AppointmentScheduler     Java         d_E 0,2576  d_M 0,3368  effort 24
+  payload-reserve          TypeScript   d_E 0,2994  d_M 0,3680  effort 9
+  warp                     TypeScript   d_E 0,2720  d_M 0,4432  effort 34
+  openresto                TypeScript   d_E 0,2908  d_M 0,4470  effort 20
+  hydrofon                 PHP          d_E 0,4172  d_M 0,5649  effort 76
+  django-appointment       Python       d_E 0,4441  d_M 0,7425  effort 41
+  thunderbird-appointment  Python       d_E 1,0701  d_M 1,6780  effort 177
+  rallly                   TypeScript   d_E 1,2955  d_M 2,2340  effort 91
+  easyappointments         PHP          d_E 1,4813  d_M 2,8324  effort 289
+  librebooking             PHP          d_E 1,7279  d_M 3,3406  effort 418
+
+Калібрування: {'log': False, 'metric': 'manhattan', 'k': 3, 'statistic': 'Зважене за 1/d', 'mmre': 0.40829826042466655, 'pred25': 0.16666666666666666, 'mdmre': 0.3680122838677323}
+Найближчі (TS/JS): ['chronex', 'gobarber', 'ignitecall']; за іншою метрикою: ['chronex', 'gobarber', 'ignitecall']; без урахування мови: ['crm-laravel', 'chronex', 'hotel-management']
+Середнє                      3,33 р.-міс  (похибка 58,3 %)
+Медіана                      3,00 р.-міс  (похибка 62,5 %)
+Зважене за 1/d               3,19 р.-міс  (похибка 60,1 %)
+З коригуванням за розміром   3,54 р.-міс  (похибка 55,7 %)
+Без урахування мови, середнє: 5,00 р.-міс
+Вартість: 361 591 грн, тривалість 6,6 міс, команда 1,0
